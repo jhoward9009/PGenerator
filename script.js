@@ -12,7 +12,7 @@ function generatePassword () {
   var prompt2 = window.prompt("Would you like your password to include numbers?")
   var prompt3 =window.prompt("Would you like your password to include symbols?")
 
-if(prompt1 === yes.toUpperCase()){
+if(prompt1 === YES.toUpperCase()){
 
 }
   
